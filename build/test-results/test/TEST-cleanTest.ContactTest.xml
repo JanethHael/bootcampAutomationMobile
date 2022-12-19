@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cleanTest.ContactTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-22T16:17:12" hostname="MacBook-Pro-de-Janeth.local" time="43.008">
+  <properties/>
+  <testcase name="createContact()" classname="cleanTest.ContactTest" time="43.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct. 22, 2022 12:17:27 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
